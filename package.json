@@ -1,0 +1,17 @@
+{
+  "name": "weatherproject",
+  "version": "1.0.0",
+  "description": "A weather project that works with API from openweather for weather forcast",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jude Ndubuisi Jr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "request": "^2.88.2"
+  }
+}
